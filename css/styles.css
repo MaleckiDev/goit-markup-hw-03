@@ -375,3 +375,12 @@ footer .contact {
 footer ul li {
   padding-bottom: 9px;
 }
+
+.projects .container li {
+  flex-grow: 1;
+}
+
+.projects .container li img {
+  width: 100%;
+  height: auto;
+}
